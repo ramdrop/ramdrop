@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-LiDAR Loop Closing Reading List:
+LiDAR Loop Closing Paper List:
 https://github.com/kxhit/awesome-point-cloud-place-recognition
