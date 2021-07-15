@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-special repository?
+LiDAR Loop Closing:
+https://github.com/kxhit/awesome-point-cloud-place-recognition
