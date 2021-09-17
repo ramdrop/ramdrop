@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-SLAM trends:
-https://github.com/wuxiaolang/Visual_SLAM_Related_Research
-
-LiDAR Loop Closing trends:
-https://github.com/kxhit/awesome-point-cloud-place-recognition
